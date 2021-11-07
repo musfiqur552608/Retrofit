@@ -23,7 +23,7 @@ public class Post {
         return userId;
     }
 
-    public int getId() {
+    public Integer getId() {
         return id;
     }
 
